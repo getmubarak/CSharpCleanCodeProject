@@ -29,11 +29,11 @@ This project is configured in eclipse and is a simple implementation.
 
 1) Clone this repository.	
 	
-2) Import the project in Eclipse ( you can even copy the package into a new project if you use a different IDE / If import of Eclipse project doesnt work well with that IDE )
+2) Import the project in VS2017 ( you can even copy the files into a new project if you use a different IDE version )
 
-3) Set up your requirements in the ```'Initialization.java'``` class, which is very self explanatory 
+3) Set up your requirements in the ```'Initialization.cs'``` class, which is very self explanatory 
 	
-4) Run the ```'TimeTableMain.java'``` file and you will see a ```'timetable.csv'``` file created in the Project Directory
+4) Run the ```'TimeTableMain.cs'``` file and you will see a ```'timetable.csv'``` file created in the Project Directory
 
 
 Good Luck !
